@@ -1,6 +1,6 @@
 {
   "name": "Lab 5",
-  "endpoint": "rhodes/cs141/su22lab05",
+  "endpoint": "rhodes/cs141/su22/lab05",
   "src": [
     "lab05.ipynb"
   ],
