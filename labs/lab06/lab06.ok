@@ -1,0 +1,14 @@
+{
+  "name": "Lab 07",
+  "endpoint": "rhodes/cs141/su22/lab07",
+  "src": [
+    "lab07.ipynb"
+  ],
+  "tests": {
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
