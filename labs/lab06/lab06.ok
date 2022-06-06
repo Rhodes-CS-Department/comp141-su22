@@ -2,7 +2,7 @@
   "name": "Lab 07",
   "endpoint": "rhodes/cs141/su22/lab07",
   "src": [
-    "lab07.ipynb"
+    "lab06.ipynb"
   ],
   "tests": {
   },
